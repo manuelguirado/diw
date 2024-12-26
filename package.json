@@ -1,0 +1,22 @@
+{
+  "name": "diw",
+  "version": "1.0.0",
+  "description": "diw project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelguirado/proyect_diw.git"
+  },
+  "keywords": [
+    "diw"
+  ],
+  "author": "manudev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelguirado/proyect_diw/issues"
+  },
+  "homepage": "https://github.com/manuelguirado/proyect_diw#readme"
+}

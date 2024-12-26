@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/manuelguirado/proyect_diw/issues"
   },
-  "homepage": "https://github.com/manuelguirado/proyect_diw#readme"
+  "homepage": "https://github.com/manuelguirado/proyect_diw#readme",
+  "dependencies": {
+    "vite": "^6.0.6"
+  }
 }

@@ -59,20 +59,31 @@ body {
     flex-direction: column;
     height: 340px;
     width: 280px;
-    gap: 60px;
+    gap: 70px;
     justify-content: center;
     align-items: center;
     border: 2px solid #000;
     background-color:#9E3845;
+    
 }
 #discimage {
   width: 200px;
   height: 150px;
+  
 }
 p{
   color: #FFE5A1;
+  text-align: center;
   
 }
+#cards  a  {
+  text-decoration: none;
+  text-align: center;
+  gap: 150px;
+  
+  
+}
+
 .offert:hover:after{
   content: "50% OFF";
   color: #FFE5A1;

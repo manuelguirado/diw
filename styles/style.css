@@ -16,15 +16,12 @@ body {
 }
 #header {
   display: flex;
-
   justify-content: space-between;
   align-items: center;
   width: 100%;
   position: fixed;
   top: 0;
-
   height: 70px;
-
   background-color: #711f31;
 }
 #logo {
@@ -34,7 +31,6 @@ body {
 }
 #navbar {
   display: flex;
-
   align-items: center;
 }
 #menu {
@@ -54,13 +50,26 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  top: 80px;
+  position: absolute;
   gap: 80px ;
 }
 #cards{
     display: flex;
     flex-direction: column;
+    height: 300px;
+    width: 280px;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #000;
+    background-color:#9E3845;
 }
-#discimage{
-    width: 200px;
-    width: 150px;
+#discimage {
+  width: 200px;
+  height: 150px;
+}
+p{
+  color: #FFE5A1;
+  
 }
